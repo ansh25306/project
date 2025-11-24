@@ -1,0 +1,37 @@
+Name - Ansh Tiwari
+Reg. No. - 25BAI10334
+
+Topic of project - Calculator
+
+ 1. Introduction
+     A calculator is a computational tool used to perform arithmetic operations such as addition,
+     subtraction, multiplication, and division. This project demonstrates the design and implementation
+     of a calculator application using programming concepts.
+ 2. Objectives- To develop a simple and user friendly calculator.- To perform basic arithmetic operations.- To understand event-driven programming and logic development.- To create modular and maintainable code.
+ 3. Tools & Technologies Used
+    a.Programming Language: Python 
+    b.IDE: VS Code
+    c.OS: Windows
+ 4. System Requirements
+ Hardware: Intel i3 or above, 4GB RAM, 100MB storage
+ Software: Programming IDE, Language runtime
+ 5. Methodology
+   a. Requirement Analysis
+   b. Design (Flowchart, Algorithm)
+   c. Implementation- 
+   d.Testing- Deployment
+ 6. Algorithm
+    a. Start
+    b. Read input numbers
+    c. Read operator
+    d. Perform operation based on operator
+    e. Display result
+    f. End
+ 8. Conclusion
+ The calculator project provides an understanding of logical operations, coding structure, and user
+ interaction. It serves as a foundation for advanced calculators.
+ 9. Future Scope-
+    a.Scientific calculations
+    b. Graphing features
+    c.Memory functions
+    d.Mobile version
